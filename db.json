@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,438 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 48
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 49
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 50
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 51
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 52
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 53
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 54
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 55
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 56
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 57
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 58
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 59
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 60
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 61
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 62
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 63
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 64
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 65
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 66
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 67
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 68
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 69
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 70
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 71
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 72
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 73
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 74
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 75
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 76
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 77
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 78
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 79
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 80
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 81
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 82
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 83
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 84
+    },
+    {
+      "name": "Steven",
+      "email": "steven.jankowski@gmail.com",
+      "id": 85
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
